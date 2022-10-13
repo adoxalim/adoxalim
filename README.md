@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adoxalim
+- 👀 I’m interested in mountaineering,programming and minerals
+- 🌱 I’m currently learning pyhton and java
+- 📫 How to reach me : adoxalim@gmail.com
